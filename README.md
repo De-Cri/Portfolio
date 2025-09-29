@@ -5,8 +5,7 @@ Education:
 Computer Science and Artificial Intelligence at the department of mathematics and computer sience, University of Calabria
 Expected Graduation: Summer 2026
 Relevant Coursework:
-    Algorithms and Data Structures(Fondamenti di programmazione 2) (28/30, 3.3 GPA)
-    Theoretical Computer Science(Informatica teorica) (30 cum lode/30 4.0 GPA)
+    Algorithms and Data Structures, Operative Systems, UserInterfaceDesigns, WebApplications, Computers Architecture.
 
 Skills:
 Python,
