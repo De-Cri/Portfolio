@@ -13,9 +13,10 @@ Python,
 C++ (used in data structure and algorithm exam)
 
 Projects:
-Python program for analyzing disk health information from JSON files (SMART data). All projects are on GitHub.
-Moviestar a stylish netflix's replication
+Python program for analyzing disk health information from JSON files (SMART data).
+Moviestar a stylish netflix's replication.
+All projects are on my github profile.
 
 Contact:
-GitHub: [https://github.com/Samuele-DeCristofaro](https://github.com/Samuele-DeCristofaro).
+GitHub: [https://github.com/De-Cri](https://github.com/De-Cri).
 email: ssamu3909@gmail.com
