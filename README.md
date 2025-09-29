@@ -2,14 +2,17 @@ Samuele DeCristofaro
 
 
 Education:
-Computer Science and Artificial Intelligence at the department of mathematics and computer sience, University of Calabria
+Computer Science and Artificial Intelligence at the department of mathematics and computer sience, University of Calabria.
 Expected Graduation: Summer 2026
 Relevant Coursework:
     Algorithms and Data Structures, Operative Systems, UserInterfaceDesigns, WebApplications, Computers Architecture.
 
 Skills:
 Python,
-C++ (used in data structure and algorithm exam)
+C++,
+Java,
+MySql,
+PostgreSql
 
 Projects:
 Python program for analyzing disk health information from JSON files (SMART data).
